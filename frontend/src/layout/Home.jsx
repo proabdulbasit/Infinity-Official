@@ -13,7 +13,7 @@ const data = [
   },
   {
     id: 2,
-    src: healthcare,
+    src: business,
     title: "Healthcare",
     price: "300",
   },
